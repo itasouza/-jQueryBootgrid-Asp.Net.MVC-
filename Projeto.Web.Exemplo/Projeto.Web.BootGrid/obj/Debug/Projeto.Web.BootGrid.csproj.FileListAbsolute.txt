@@ -1,0 +1,102 @@
+C:\Users\Itamar\Dropbox\Projeto Asp.net MVC5\Projeto.Web.Exemplo\Projeto.Web.BootGrid\bin\ApplicationInsights.config
+C:\Users\Itamar\Dropbox\Projeto Asp.net MVC5\Projeto.Web.Exemplo\Projeto.Web.BootGrid\bin\roslyn\csc.exe
+C:\Users\Itamar\Dropbox\Projeto Asp.net MVC5\Projeto.Web.Exemplo\Projeto.Web.BootGrid\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Itamar\Dropbox\Projeto Asp.net MVC5\Projeto.Web.Exemplo\Projeto.Web.BootGrid\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Itamar\Dropbox\Projeto Asp.net MVC5\Projeto.Web.Exemplo\Projeto.Web.BootGrid\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Itamar\Dropbox\Projeto Asp.net MVC5\Projeto.Web.Exemplo\Projeto.Web.BootGrid\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Itamar\Dropbox\Projeto Asp.net MVC5\Projeto.Web.Exemplo\Projeto.Web.BootGrid\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Itamar\Dropbox\Projeto Asp.net MVC5\Projeto.Web.Exemplo\Projeto.Web.BootGrid\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Itamar\Dropbox\Projeto Asp.net MVC5\Projeto.Web.Exemplo\Projeto.Web.BootGrid\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Itamar\Dropbox\Projeto Asp.net MVC5\Projeto.Web.Exemplo\Projeto.Web.BootGrid\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Itamar\Dropbox\Projeto Asp.net MVC5\Projeto.Web.Exemplo\Projeto.Web.BootGrid\bin\roslyn\vbc.exe
+C:\Users\Itamar\Dropbox\Projeto Asp.net MVC5\Projeto.Web.Exemplo\Projeto.Web.BootGrid\bin\roslyn\VBCSCompiler.exe
+C:\Users\Itamar\Dropbox\Projeto Asp.net MVC5\Projeto.Web.Exemplo\Projeto.Web.BootGrid\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Itamar\Dropbox\Projeto Asp.net MVC5\Projeto.Web.Exemplo\Projeto.Web.BootGrid\bin\Projeto.Web.BootGrid.dll.config
+C:\Users\Itamar\Dropbox\Projeto Asp.net MVC5\Projeto.Web.Exemplo\Projeto.Web.BootGrid\bin\Projeto.Web.BootGrid.dll
+C:\Users\Itamar\Dropbox\Projeto Asp.net MVC5\Projeto.Web.Exemplo\Projeto.Web.BootGrid\bin\Projeto.Web.BootGrid.pdb
+C:\Users\Itamar\Dropbox\Projeto Asp.net MVC5\Projeto.Web.Exemplo\Projeto.Web.BootGrid\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Itamar\Dropbox\Projeto Asp.net MVC5\Projeto.Web.Exemplo\Projeto.Web.BootGrid\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Itamar\Dropbox\Projeto Asp.net MVC5\Projeto.Web.Exemplo\Projeto.Web.BootGrid\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Itamar\Dropbox\Projeto Asp.net MVC5\Projeto.Web.Exemplo\Projeto.Web.BootGrid\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Itamar\Dropbox\Projeto Asp.net MVC5\Projeto.Web.Exemplo\Projeto.Web.BootGrid\bin\Microsoft.AI.Web.dll
+C:\Users\Itamar\Dropbox\Projeto Asp.net MVC5\Projeto.Web.Exemplo\Projeto.Web.BootGrid\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Itamar\Dropbox\Projeto Asp.net MVC5\Projeto.Web.Exemplo\Projeto.Web.BootGrid\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Itamar\Dropbox\Projeto Asp.net MVC5\Projeto.Web.Exemplo\Projeto.Web.BootGrid\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Itamar\Dropbox\Projeto Asp.net MVC5\Projeto.Web.Exemplo\Projeto.Web.BootGrid\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Itamar\Dropbox\Projeto Asp.net MVC5\Projeto.Web.Exemplo\Projeto.Web.BootGrid\bin\System.Web.Helpers.dll
+C:\Users\Itamar\Dropbox\Projeto Asp.net MVC5\Projeto.Web.Exemplo\Projeto.Web.BootGrid\bin\System.Web.Mvc.dll
+C:\Users\Itamar\Dropbox\Projeto Asp.net MVC5\Projeto.Web.Exemplo\Projeto.Web.BootGrid\bin\System.Web.Razor.dll
+C:\Users\Itamar\Dropbox\Projeto Asp.net MVC5\Projeto.Web.Exemplo\Projeto.Web.BootGrid\bin\System.Web.Webpages.Deployment.dll
+C:\Users\Itamar\Dropbox\Projeto Asp.net MVC5\Projeto.Web.Exemplo\Projeto.Web.BootGrid\bin\System.Web.Webpages.dll
+C:\Users\Itamar\Dropbox\Projeto Asp.net MVC5\Projeto.Web.Exemplo\Projeto.Web.BootGrid\bin\System.Web.Webpages.Razor.dll
+C:\Users\Itamar\Dropbox\Projeto Asp.net MVC5\Projeto.Web.Exemplo\Projeto.Web.BootGrid\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Itamar\Dropbox\Projeto Asp.net MVC5\Projeto.Web.Exemplo\Projeto.Web.BootGrid\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Itamar\Dropbox\Projeto Asp.net MVC5\Projeto.Web.Exemplo\Projeto.Web.BootGrid\bin\Microsoft.AI.Web.xml
+C:\Users\Itamar\Dropbox\Projeto Asp.net MVC5\Projeto.Web.Exemplo\Projeto.Web.BootGrid\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Itamar\Dropbox\Projeto Asp.net MVC5\Projeto.Web.Exemplo\Projeto.Web.BootGrid\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Itamar\Dropbox\Projeto Asp.net MVC5\Projeto.Web.Exemplo\Projeto.Web.BootGrid\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Itamar\Dropbox\Projeto Asp.net MVC5\Projeto.Web.Exemplo\Projeto.Web.BootGrid\bin\System.Web.Razor.xml
+C:\Users\Itamar\Dropbox\Projeto Asp.net MVC5\Projeto.Web.Exemplo\Projeto.Web.BootGrid\bin\System.Web.Webpages.xml
+C:\Users\Itamar\Dropbox\Projeto Asp.net MVC5\Projeto.Web.Exemplo\Projeto.Web.BootGrid\bin\System.Web.Webpages.Deployment.xml
+C:\Users\Itamar\Dropbox\Projeto Asp.net MVC5\Projeto.Web.Exemplo\Projeto.Web.BootGrid\bin\System.Web.Webpages.Razor.xml
+C:\Users\Itamar\Dropbox\Projeto Asp.net MVC5\Projeto.Web.Exemplo\Projeto.Web.BootGrid\bin\System.Web.Helpers.xml
+C:\Users\Itamar\Dropbox\Projeto Asp.net MVC5\Projeto.Web.Exemplo\Projeto.Web.BootGrid\bin\System.Web.Mvc.xml
+C:\Users\Itamar\Dropbox\Projeto Asp.net MVC5\Projeto.Web.Exemplo\Projeto.Web.BootGrid\obj\Debug\Projeto.Web.BootGrid.dll
+C:\Users\Itamar\Dropbox\Projeto Asp.net MVC5\Projeto.Web.Exemplo\Projeto.Web.BootGrid\obj\Debug\Projeto.Web.BootGrid.pdb
+C:\Users\Itamar\Dropbox\Projeto Asp.net MVC5\Projeto.Web.Exemplo\Projeto.Web.BootGrid\obj\Debug\Projeto.Web.BootGrid.csprojResolveAssemblyReference.cache
+C:\Users\Itamar\Dropbox\Projeto Asp.net MVC5\Projeto.Web.Exemplo\Projeto.Web.BootGrid\bin\EntityFramework.dll
+C:\Users\Itamar\Dropbox\Projeto Asp.net MVC5\Projeto.Web.Exemplo\Projeto.Web.BootGrid\bin\EntityFramework.SqlServer.dll
+C:\Users\Itamar\Dropbox\Projeto Asp.net MVC5\Projeto.Web.Exemplo\Projeto.Web.BootGrid\bin\EntityFramework.xml
+C:\Users\Itamar\Dropbox\Projeto Asp.net MVC5\Projeto.Web.Exemplo\Projeto.Web.BootGrid\bin\EntityFramework.SqlServer.xml
+C:\Users\Itamar\Dropbox\Projeto Asp.net MVC5\Projeto.Web.Exemplo\Projeto.Web.BootGrid\bin\System.Linq.Dynamic.dll
+C:\Users\Itamar\Documents\GitHub\-jQueryBootgrid-Asp.Net.MVC-\Projeto.Web.Exemplo\Projeto.Web.BootGrid\bin\ApplicationInsights.config
+C:\Users\Itamar\Documents\GitHub\-jQueryBootgrid-Asp.Net.MVC-\Projeto.Web.Exemplo\Projeto.Web.BootGrid\bin\roslyn\csc.exe
+C:\Users\Itamar\Documents\GitHub\-jQueryBootgrid-Asp.Net.MVC-\Projeto.Web.Exemplo\Projeto.Web.BootGrid\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Itamar\Documents\GitHub\-jQueryBootgrid-Asp.Net.MVC-\Projeto.Web.Exemplo\Projeto.Web.BootGrid\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Itamar\Documents\GitHub\-jQueryBootgrid-Asp.Net.MVC-\Projeto.Web.Exemplo\Projeto.Web.BootGrid\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Itamar\Documents\GitHub\-jQueryBootgrid-Asp.Net.MVC-\Projeto.Web.Exemplo\Projeto.Web.BootGrid\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Itamar\Documents\GitHub\-jQueryBootgrid-Asp.Net.MVC-\Projeto.Web.Exemplo\Projeto.Web.BootGrid\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Itamar\Documents\GitHub\-jQueryBootgrid-Asp.Net.MVC-\Projeto.Web.Exemplo\Projeto.Web.BootGrid\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Itamar\Documents\GitHub\-jQueryBootgrid-Asp.Net.MVC-\Projeto.Web.Exemplo\Projeto.Web.BootGrid\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Itamar\Documents\GitHub\-jQueryBootgrid-Asp.Net.MVC-\Projeto.Web.Exemplo\Projeto.Web.BootGrid\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Itamar\Documents\GitHub\-jQueryBootgrid-Asp.Net.MVC-\Projeto.Web.Exemplo\Projeto.Web.BootGrid\bin\roslyn\vbc.exe
+C:\Users\Itamar\Documents\GitHub\-jQueryBootgrid-Asp.Net.MVC-\Projeto.Web.Exemplo\Projeto.Web.BootGrid\bin\roslyn\VBCSCompiler.exe
+C:\Users\Itamar\Documents\GitHub\-jQueryBootgrid-Asp.Net.MVC-\Projeto.Web.Exemplo\Projeto.Web.BootGrid\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Itamar\Documents\GitHub\-jQueryBootgrid-Asp.Net.MVC-\Projeto.Web.Exemplo\Projeto.Web.BootGrid\bin\Projeto.Web.BootGrid.dll.config
+C:\Users\Itamar\Documents\GitHub\-jQueryBootgrid-Asp.Net.MVC-\Projeto.Web.Exemplo\Projeto.Web.BootGrid\bin\Projeto.Web.BootGrid.dll
+C:\Users\Itamar\Documents\GitHub\-jQueryBootgrid-Asp.Net.MVC-\Projeto.Web.Exemplo\Projeto.Web.BootGrid\bin\Projeto.Web.BootGrid.pdb
+C:\Users\Itamar\Documents\GitHub\-jQueryBootgrid-Asp.Net.MVC-\Projeto.Web.Exemplo\Projeto.Web.BootGrid\bin\EntityFramework.dll
+C:\Users\Itamar\Documents\GitHub\-jQueryBootgrid-Asp.Net.MVC-\Projeto.Web.Exemplo\Projeto.Web.BootGrid\bin\EntityFramework.SqlServer.dll
+C:\Users\Itamar\Documents\GitHub\-jQueryBootgrid-Asp.Net.MVC-\Projeto.Web.Exemplo\Projeto.Web.BootGrid\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Itamar\Documents\GitHub\-jQueryBootgrid-Asp.Net.MVC-\Projeto.Web.Exemplo\Projeto.Web.BootGrid\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Itamar\Documents\GitHub\-jQueryBootgrid-Asp.Net.MVC-\Projeto.Web.Exemplo\Projeto.Web.BootGrid\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Itamar\Documents\GitHub\-jQueryBootgrid-Asp.Net.MVC-\Projeto.Web.Exemplo\Projeto.Web.BootGrid\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Itamar\Documents\GitHub\-jQueryBootgrid-Asp.Net.MVC-\Projeto.Web.Exemplo\Projeto.Web.BootGrid\bin\Microsoft.AI.Web.dll
+C:\Users\Itamar\Documents\GitHub\-jQueryBootgrid-Asp.Net.MVC-\Projeto.Web.Exemplo\Projeto.Web.BootGrid\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Itamar\Documents\GitHub\-jQueryBootgrid-Asp.Net.MVC-\Projeto.Web.Exemplo\Projeto.Web.BootGrid\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Itamar\Documents\GitHub\-jQueryBootgrid-Asp.Net.MVC-\Projeto.Web.Exemplo\Projeto.Web.BootGrid\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Itamar\Documents\GitHub\-jQueryBootgrid-Asp.Net.MVC-\Projeto.Web.Exemplo\Projeto.Web.BootGrid\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Itamar\Documents\GitHub\-jQueryBootgrid-Asp.Net.MVC-\Projeto.Web.Exemplo\Projeto.Web.BootGrid\bin\System.Linq.Dynamic.dll
+C:\Users\Itamar\Documents\GitHub\-jQueryBootgrid-Asp.Net.MVC-\Projeto.Web.Exemplo\Projeto.Web.BootGrid\bin\System.Web.Helpers.dll
+C:\Users\Itamar\Documents\GitHub\-jQueryBootgrid-Asp.Net.MVC-\Projeto.Web.Exemplo\Projeto.Web.BootGrid\bin\System.Web.Mvc.dll
+C:\Users\Itamar\Documents\GitHub\-jQueryBootgrid-Asp.Net.MVC-\Projeto.Web.Exemplo\Projeto.Web.BootGrid\bin\System.Web.Razor.dll
+C:\Users\Itamar\Documents\GitHub\-jQueryBootgrid-Asp.Net.MVC-\Projeto.Web.Exemplo\Projeto.Web.BootGrid\bin\System.Web.Webpages.Deployment.dll
+C:\Users\Itamar\Documents\GitHub\-jQueryBootgrid-Asp.Net.MVC-\Projeto.Web.Exemplo\Projeto.Web.BootGrid\bin\System.Web.Webpages.dll
+C:\Users\Itamar\Documents\GitHub\-jQueryBootgrid-Asp.Net.MVC-\Projeto.Web.Exemplo\Projeto.Web.BootGrid\bin\System.Web.Webpages.Razor.dll
+C:\Users\Itamar\Documents\GitHub\-jQueryBootgrid-Asp.Net.MVC-\Projeto.Web.Exemplo\Projeto.Web.BootGrid\bin\EntityFramework.xml
+C:\Users\Itamar\Documents\GitHub\-jQueryBootgrid-Asp.Net.MVC-\Projeto.Web.Exemplo\Projeto.Web.BootGrid\bin\EntityFramework.SqlServer.xml
+C:\Users\Itamar\Documents\GitHub\-jQueryBootgrid-Asp.Net.MVC-\Projeto.Web.Exemplo\Projeto.Web.BootGrid\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Itamar\Documents\GitHub\-jQueryBootgrid-Asp.Net.MVC-\Projeto.Web.Exemplo\Projeto.Web.BootGrid\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Itamar\Documents\GitHub\-jQueryBootgrid-Asp.Net.MVC-\Projeto.Web.Exemplo\Projeto.Web.BootGrid\bin\Microsoft.AI.Web.xml
+C:\Users\Itamar\Documents\GitHub\-jQueryBootgrid-Asp.Net.MVC-\Projeto.Web.Exemplo\Projeto.Web.BootGrid\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Itamar\Documents\GitHub\-jQueryBootgrid-Asp.Net.MVC-\Projeto.Web.Exemplo\Projeto.Web.BootGrid\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Itamar\Documents\GitHub\-jQueryBootgrid-Asp.Net.MVC-\Projeto.Web.Exemplo\Projeto.Web.BootGrid\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Itamar\Documents\GitHub\-jQueryBootgrid-Asp.Net.MVC-\Projeto.Web.Exemplo\Projeto.Web.BootGrid\bin\System.Web.Razor.xml
+C:\Users\Itamar\Documents\GitHub\-jQueryBootgrid-Asp.Net.MVC-\Projeto.Web.Exemplo\Projeto.Web.BootGrid\bin\System.Web.Webpages.xml
+C:\Users\Itamar\Documents\GitHub\-jQueryBootgrid-Asp.Net.MVC-\Projeto.Web.Exemplo\Projeto.Web.BootGrid\bin\System.Web.Webpages.Deployment.xml
+C:\Users\Itamar\Documents\GitHub\-jQueryBootgrid-Asp.Net.MVC-\Projeto.Web.Exemplo\Projeto.Web.BootGrid\bin\System.Web.Webpages.Razor.xml
+C:\Users\Itamar\Documents\GitHub\-jQueryBootgrid-Asp.Net.MVC-\Projeto.Web.Exemplo\Projeto.Web.BootGrid\bin\System.Web.Helpers.xml
+C:\Users\Itamar\Documents\GitHub\-jQueryBootgrid-Asp.Net.MVC-\Projeto.Web.Exemplo\Projeto.Web.BootGrid\bin\System.Web.Mvc.xml
+C:\Users\Itamar\Documents\GitHub\-jQueryBootgrid-Asp.Net.MVC-\Projeto.Web.Exemplo\Projeto.Web.BootGrid\obj\Debug\Projeto.Web.BootGrid.csprojResolveAssemblyReference.cache
+C:\Users\Itamar\Documents\GitHub\-jQueryBootgrid-Asp.Net.MVC-\Projeto.Web.Exemplo\Projeto.Web.BootGrid\obj\Debug\Projeto.Web.BootGrid.dll
+C:\Users\Itamar\Documents\GitHub\-jQueryBootgrid-Asp.Net.MVC-\Projeto.Web.Exemplo\Projeto.Web.BootGrid\obj\Debug\Projeto.Web.BootGrid.pdb

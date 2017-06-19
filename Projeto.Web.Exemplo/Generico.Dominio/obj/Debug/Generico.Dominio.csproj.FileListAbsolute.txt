@@ -1,0 +1,5 @@
+C:\Users\Itamar\Dropbox\Projeto Asp.net MVC5\Projeto.Web.Exemplo\Generico.Dominio\bin\Debug\Generico.Dominio.dll
+C:\Users\Itamar\Dropbox\Projeto Asp.net MVC5\Projeto.Web.Exemplo\Generico.Dominio\bin\Debug\Generico.Dominio.pdb
+C:\Users\Itamar\Dropbox\Projeto Asp.net MVC5\Projeto.Web.Exemplo\Generico.Dominio\obj\Debug\Generico.Dominio.csprojResolveAssemblyReference.cache
+C:\Users\Itamar\Dropbox\Projeto Asp.net MVC5\Projeto.Web.Exemplo\Generico.Dominio\obj\Debug\Generico.Dominio.dll
+C:\Users\Itamar\Dropbox\Projeto Asp.net MVC5\Projeto.Web.Exemplo\Generico.Dominio\obj\Debug\Generico.Dominio.pdb

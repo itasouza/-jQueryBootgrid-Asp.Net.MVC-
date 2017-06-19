@@ -1,0 +1,1 @@
+httpsdocs.microsoft.comen-usaspnetweb-apioverviewsecurityenabling-cross-origin-requests-in-web-api

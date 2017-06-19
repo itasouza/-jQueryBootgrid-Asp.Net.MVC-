@@ -1,0 +1,88 @@
+
+
+
+/*================================layout===============================*/
+*  {
+    margin:0;
+    padding:0;
+}
+
+
+html, body, .capa{
+    height: 100%;
+
+}
+
+body{
+    /*
+    background: url('/imagens/ruido.png'),
+                linear-gradient(50deg, #ff4169,#7c26f8);
+    background-attachment: fixed; 
+   */  
+    font-family: Arial, Helvetica, sans-serif;  
+    overflow-x: hidden;     
+      
+}
+ 
+
+
+
+/*barra de navegação*/
+.img-logo{
+    height: 50px;
+    width: 50px;
+    display: block;
+    background: url('/imagens/logo.png') no-repeat;
+    background-size: contain ;
+    color: transparent;
+
+}
+
+nav.navbar-transparente {
+  padding: 15px 0px;
+  background: rgba(0,0,0,0.6);
+  border: none;
+}
+
+.navbar-brand{
+  padding: 5px 15px;
+}
+
+
+
+.navbar-inverse .navbar-nav>li>a {
+ color:white;
+}
+
+.navbar-inverse .navbar-nav>li>a:hover{
+  color:#9bf0e1;
+  background: none;
+}
+
+
+#geral{
+    min-height:100%;
+}
+/*Imagem de capa*/
+
+
+
+
+/*Seção de rodapé */
+
+footer{
+    background: #000;
+    padding-bottom: 2px;
+    position: absolute;
+    width:100%;
+}
+
+footer .nav a {
+ color:white;
+}
+
+footer .nav a:hover{
+ color:#9bf0e1;
+ background: none;
+}
+

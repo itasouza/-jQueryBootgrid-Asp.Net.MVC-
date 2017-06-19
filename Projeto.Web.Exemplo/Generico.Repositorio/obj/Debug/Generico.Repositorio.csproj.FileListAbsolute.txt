@@ -1,0 +1,6 @@
+C:\Users\Itamar\Dropbox\Projeto Asp.net MVC5\Projeto.Web.Exemplo\Generico.Repositorio\bin\Debug\Generico.Repositorio.dll.config
+C:\Users\Itamar\Dropbox\Projeto Asp.net MVC5\Projeto.Web.Exemplo\Generico.Repositorio\bin\Debug\Generico.Repositorio.dll
+C:\Users\Itamar\Dropbox\Projeto Asp.net MVC5\Projeto.Web.Exemplo\Generico.Repositorio\bin\Debug\Generico.Repositorio.pdb
+C:\Users\Itamar\Dropbox\Projeto Asp.net MVC5\Projeto.Web.Exemplo\Generico.Repositorio\obj\Debug\Generico.Repositorio.csprojResolveAssemblyReference.cache
+C:\Users\Itamar\Dropbox\Projeto Asp.net MVC5\Projeto.Web.Exemplo\Generico.Repositorio\obj\Debug\Generico.Repositorio.dll
+C:\Users\Itamar\Dropbox\Projeto Asp.net MVC5\Projeto.Web.Exemplo\Generico.Repositorio\obj\Debug\Generico.Repositorio.pdb
