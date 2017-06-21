@@ -1,0 +1,60 @@
+﻿
+<!DOCTYPE html>
+<html lang="pt-br">
+
+@RenderPage("_header.cshtml")
+
+
+<body>
+
+
+
+    <nav class="navbar navbar-fixed-top navbar-inverse navbar-transparente">
+        <div class="container">
+
+            <!--header-->
+            <div class="navbar-header">
+                <!--botao toggle recebe o id do navbar-->
+                <button type="button" class="navbar-toggle collapsed"
+                        data-toggle="collapse" data-target="#barra-navegacao">
+                    <span class="sr-only">Alternar navageção</span>
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                </button>
+                <!--logo-->
+                <a href="#" class="navbar-brand">
+                    <span class="img-logo">Tutorial</span>
+                </a> <!--/logo-->
+
+            </div>
+            <!--navbar-->
+            <div class="collapse navbar-collapse" id="barra-navegacao">
+
+
+                <ul class="nav navbar-nav navbar-right">
+                    <li><a href="#">ASP.NET MVC</a></li>
+                    <li><a href="#">Linq.Dynamic</a></li>
+                    <li><a href="#">jQuery.Bootgrid</a></li>
+                    <li><a href="#">EntityFramework</a></li>
+                   
+                </ul>
+            </div> <!--/navbar-->
+
+        </div> <!--/container-->
+
+    </nav> <!--/nav-->
+    <!--capa do site-->
+
+
+
+    <div id="geral" class="container">
+        @RenderBody()
+    </div>
+
+    @RenderPage("_footer.cshtml")
+    @RenderSection("scripts", required: false)
+
+
+</body>
+</html>

@@ -9,9 +9,11 @@ using System.Net;
 using System.Web;
 using System.Web.Mvc;
 using System.Linq.Dynamic;
+using Microsoft.AspNetCore.Cors;
 
 namespace Projeto.Web.BootGrid.Controllers
 {
+
     public class HomeController : Controller
     {
 
@@ -72,11 +74,13 @@ namespace Projeto.Web.BootGrid.Controllers
 
         }
 
+ 
+        [EnableCors("AllowSpecificOrigin")]
         public JsonResult listar()
         {
             try
             {
-                var livros = db.Livros.Include(listar => listar.Genero.ToString());
+                var livros = db.Livros.Include(listar => listar.Genero);
                 return Json(livros.ToList(), JsonRequestBehavior.AllowGet);
             }
             catch (Exception)
@@ -88,21 +92,28 @@ namespace Projeto.Web.BootGrid.Controllers
         }
 
 
-
-        public ActionResult Detalhe(int? id)
+        public JsonResult Cadastro()
         {
-            return View();
+            return Json(new { mensagem = "Cadastro" }, JsonRequestBehavior.AllowGet);
         }
 
 
-        public ActionResult Editar(int? id)
+        public JsonResult Detalhe(int? id)
         {
-            return View();
+
+           return Json(new { mensagem = "Detalhe" }, JsonRequestBehavior.AllowGet);
+
         }
 
-        public ActionResult Excluir(int? id)
+
+        public JsonResult Editar(int? id)
         {
-            return View();
+            return Json(new { mensagem = "Editar" }, JsonRequestBehavior.AllowGet);
+        }
+
+        public JsonResult Excluir(int? id)
+        {
+            return Json(new { mensagem = "Excluir" }, JsonRequestBehavior.AllowGet);
         }
 
 
